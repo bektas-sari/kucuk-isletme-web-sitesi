@@ -46,8 +46,6 @@ Bu projeyi kendi işletmenize uyarlamak için aşağıdaki adımları takip edeb
 3. **Web Tarayıcınızda Açın**
    - `index.html` dosyasını çift tıklayarak tarayıcınızda görüntüleyebilirsiniz.
 
-[Demo Bağlantısı](#)
-
 ## Geliştirici Notları
 - Proje tamamen açık kaynak olup, ihtiyacınıza göre özgürce değiştirebilirsiniz.
 - Daha fazla özellik eklemek için `script.js` dosyasına JavaScript fonksiyonları ekleyebilirsiniz.
@@ -59,6 +57,6 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır. Kullanım, değiştirme ve da�
 ---
 
 Herhangi bir öneri veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz.
-Mail: bektas.sari@gmail.com
+- Mail: bektas.sari@gmail.com
 
 
