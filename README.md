@@ -1,81 +1,76 @@
-One-Page Website Template for Small Businesses
-This project is a modern and user-friendly one-page website template designed specifically for small businesses. The website is built using HTML, CSS, and JavaScript, and includes sections such as About Us, Products/Services, Blog, Contact, FAQ, Testimonials, and Footer.
+# One-Page Website Template for Small Businesses
 
-📄 Project Overview
+This project is a modern and user-friendly **one-page website template** designed specifically for small businesses. The website is built using **HTML, CSS, and JavaScript**, and includes sections such as **About Us, Products/Services, Blog, Contact, FAQ, Testimonials, and Footer**.
+
+## 📄 Project Overview
+
 This website template includes the following sections:
 
-Hero Section: Features a large visual banner and a welcome message at the top of the page.
+* **Hero Section**: Features a large visual banner and a welcome message at the top of the page.
+* **About Us**: Provides information about the mission and vision of the business.
+* **Products/Services**: Details the services and products offered by the company.
+* **Blog**: A section to share company news, tips, and industry insights.
+* **Contact**: Allows users to get in touch with the business easily.
+* **FAQ (Frequently Asked Questions)**: Answers common questions users may have.
+* **Testimonials**: Displays feedback or partnerships from past clients or collaborators.
+* **Footer**: Contains copyright information and additional links.
 
-About Us: Provides information about the mission and vision of the business.
+## 🛠️ Technologies Used
 
-Products/Services: Details the services and products offered by the company.
+* **HTML5** – for structuring the webpage
+* **CSS3** – for responsive and modern styling
+* **JavaScript (Vanilla JS)** – for interactive animations and effects
 
-Blog: A section to share company news, tips, and industry insights.
+## ✨ Features
 
-Contact: Allows users to get in touch with the business easily.
+* **Modern and Elegant Design**: Enhances user experience with a mobile-friendly and visually pleasing layout.
+* **Single Page Structure**: Enables users to access all content without navigating to different pages.
+* **Visual and Button Animations**: Fade-in effects for aesthetic appearance.
+* **Fully Responsive**: Optimized for mobile, tablet, and desktop devices.
+* **Clean and Modular Codebase**: HTML, CSS, and JS files are separated for easy customization.
+* **Royalty-Free Images**: Uses free-to-use images for safe deployment.
 
-FAQ (Frequently Asked Questions): Answers common questions users may have.
+## 🚀 Installation and Usage
 
-Testimonials: Displays feedback or partnerships from past clients or collaborators.
+1. **Clone or Download the Project**
 
-Footer: Contains copyright information and additional links.
+   ```sh
+   git clone https://github.com/bektas-sari/kucuk-isletme-web-sitesi.git
+   ```
 
-🛠️ Technologies Used
-HTML5 – for structuring the webpage
+   Or download the ZIP file and extract it.
 
-CSS3 – for responsive and modern styling
+2. **Update HTML, CSS, and JavaScript Files**
 
-JavaScript (Vanilla JS) – for interactive animations and effects
+   * Edit `index.html` to add your own business content.
+   * Customize `style.css` for colors, fonts, and layout changes.
+   * Add or modify interactions in `script.js`.
 
-✨ Features
-Modern and Elegant Design: Enhances user experience with a mobile-friendly and visually pleasing layout.
+3. **Launch in Browser**
 
-Single Page Structure: Enables users to access all content without navigating to different pages.
+   * Double-click on the `index.html` file to open it in your default web browser.
 
-Visual and Button Animations: Fade-in effects for aesthetic appearance.
+## 📝 Developer Notes
 
-Fully Responsive: Optimized for mobile, tablet, and desktop devices.
+* This project is fully open-source and free to customize.
+* You can add more JavaScript features in `script.js` as needed.
+* Update image `src` attributes to change visuals.
 
-Clean and Modular Codebase: HTML, CSS, and JS files are separated for easy customization.
+## 📄 License
 
-Royalty-Free Images: Uses free-to-use images for safe deployment.
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it.
 
-🚀 Installation and Usage
-Clone or Download the Project
+---
 
-sh
-Kopyala
-Düzenle
-git clone https://github.com/bektas-sari/kucuk-isletme-web-sitesi.git
-Or download the ZIP file and extract it.
+## 👤 Developer
 
-Update HTML, CSS, and JavaScript Files
+**Bektas Sari**
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  <br>
+GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari) <br>
+LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sari) <br>
+Researchgate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3) <br>
+Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari) <br>
 
-Edit index.html to add your own business content.
+---
 
-Customize style.css for colors, fonts, and layout changes.
-
-Add or modify interactions in script.js.
-
-Launch in Browser
-
-Double-click on the index.html file to open it in your default web browser.
-
-📝 Developer Notes
-This project is fully open-source and free to customize.
-
-You can add more JavaScript features in script.js as needed.
-
-Update image src attributes to change visuals.
-
-📄 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
-
-👤 Developer
-Bektas Sari
-Email: bektas.sari@gmail.com <br>
-GitHub: https://github.com/bektas-sari <br>
-LinkedIn: www.linkedin.com/in/bektas-sari <br>
-Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
-Academia: https://independent.academia.edu/bektassari <br>
-
+If you have any suggestions or feedback, feel free to reach out via email.
