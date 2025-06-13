@@ -1,62 +1,81 @@
-# Küçük İşletmeler İçin Tek Sayfa Web Sitesi
+One-Page Website Template for Small Businesses
+This project is a modern and user-friendly one-page website template designed specifically for small businesses. The website is built using HTML, CSS, and JavaScript, and includes sections such as About Us, Products/Services, Blog, Contact, FAQ, Testimonials, and Footer.
 
-Bu proje, küçük işletmeler için modern ve kullanıcı dostu bir **tek sayfa (single page) web sitesi** şablonudur. Web sitesi, **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir. Sayfa içerisinde **Hakkımızda, Ürünler/Hizmetler, Blog, İletişim, Sıkça Sorulan Sorular (SSS), Referanslar ve Footer** bölümleri bulunmaktadır.
+📄 Project Overview
+This website template includes the following sections:
 
-## Proje İçeriği
-Bu web sitesi şablonu aşağıdaki bölümlerden oluşmaktadır:
+Hero Section: Features a large visual banner and a welcome message at the top of the page.
 
-- **Hero Bölümü**: Sayfanın en üstünde büyük bir görsel ve hoş geldiniz mesajı bulunur.
-- **Hakkımızda**: İşletmenin misyonu ve vizyonu hakkında bilgi verir.
-- **Ürünler/Hizmetler**: Şirketin sunduğu hizmet ve ürünleri açıklar.
-- **Blog**: İşletme ile ilgili haberler, ipuçları ve sektör bilgileri paylaşılabilir.
-- **İletişim**: Kullanıcıların işletme ile kolayca iletişime geçmesini sağlar.
-- **Sıkça Sorulan Sorular (SSS)**: Kullanıcıların en çok merak ettiği konular hakkında bilgi verir.
-- **Referanslar**: İşletmenin daha önce çalıştığı müşteriler veya iş ortaklarını gösterir.
-- **Footer**: Web sitesinin alt kısmında telif hakkı bilgileri ve ek bağlantılar yer alır.
+About Us: Provides information about the mission and vision of the business.
 
-## Kullanılan Teknolojiler
-Bu projede aşağıdaki teknolojiler kullanılmıştır:
+Products/Services: Details the services and products offered by the company.
 
-- **HTML5**: Sayfanın yapısını oluşturmak için kullanıldı.
-- **CSS3**: Responsive ve modern tasarım için kullanıldı.
-- **JavaScript (Vanilla JS)**: Sayfa içi animasyonlar ve etkileşimler için kullanıldı.
+Blog: A section to share company news, tips, and industry insights.
 
-## Özellikler
-- **Modern ve Şık Tasarım**: Kullanıcı deneyimini artıran, mobil uyumlu ve estetik bir arayüz.
-- **Tek Sayfa (Single Page) Yapı**: Kullanıcıların sayfalar arasında dolaşmadan tüm bilgilere erişebilmesi.
-- **Görsel ve Buton Animasyonları**: Fade-in animasyonu ile estetik bir görünüm sağlar.
-- **Tamamen Responsive**: Mobil, tablet ve masaüstü cihazlarda mükemmel uyum sağlar.
-- **Kolay Düzenlenebilir Kod Yapısı**: HTML, CSS ve JavaScript dosyaları ayrı tutulmuştur.
-- **Telifsiz Görseller Kullanılmıştır**: Telif hakkı içermeyen görseller sayesinde güvenli kullanım sağlar.
+Contact: Allows users to get in touch with the business easily.
 
-## Kurulum ve Kullanım
-Bu projeyi kendi işletmenize uyarlamak için aşağıdaki adımları takip edebilirsiniz:
+FAQ (Frequently Asked Questions): Answers common questions users may have.
 
-1. **Projeyi Klonlayın veya İndirin**
-   ```sh
-   git clone https://github.com/bektas-sari/kucuk-isletme-web-sitesi.git
-   ```
-   veya doğrudan ZIP dosyası olarak indirip çıkartabilirsiniz.
+Testimonials: Displays feedback or partnerships from past clients or collaborators.
 
-2. **HTML, CSS ve JavaScript Dosyalarını Güncelleyin**
-   - `index.html` dosyasında işletme bilgilerinizi güncelleyin.
-   - `style.css` dosyasında renk ve font ayarlarını değiştirebilirsiniz.
-   - `script.js` içinde ek etkileşimler ekleyebilirsiniz.
+Footer: Contains copyright information and additional links.
 
-3. **Web Tarayıcınızda Açın**
-   - `index.html` dosyasını çift tıklayarak tarayıcınızda görüntüleyebilirsiniz.
+🛠️ Technologies Used
+HTML5 – for structuring the webpage
 
-## Geliştirici Notları
-- Proje tamamen açık kaynak olup, ihtiyacınıza göre özgürce değiştirebilirsiniz.
-- Daha fazla özellik eklemek için `script.js` dosyasına JavaScript fonksiyonları ekleyebilirsiniz.
-- Görselleri değiştirmek için `img` etiketlerindeki `src` linklerini güncelleyebilirsiniz.
+CSS3 – for responsive and modern styling
 
-## Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Kullanım, değiştirme ve dağıtım serbesttir.
+JavaScript (Vanilla JS) – for interactive animations and effects
 
----
+✨ Features
+Modern and Elegant Design: Enhances user experience with a mobile-friendly and visually pleasing layout.
 
-Herhangi bir öneri veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz.
-- Mail: bektas.sari@gmail.com
+Single Page Structure: Enables users to access all content without navigating to different pages.
 
+Visual and Button Animations: Fade-in effects for aesthetic appearance.
+
+Fully Responsive: Optimized for mobile, tablet, and desktop devices.
+
+Clean and Modular Codebase: HTML, CSS, and JS files are separated for easy customization.
+
+Royalty-Free Images: Uses free-to-use images for safe deployment.
+
+🚀 Installation and Usage
+Clone or Download the Project
+
+sh
+Kopyala
+Düzenle
+git clone https://github.com/bektas-sari/kucuk-isletme-web-sitesi.git
+Or download the ZIP file and extract it.
+
+Update HTML, CSS, and JavaScript Files
+
+Edit index.html to add your own business content.
+
+Customize style.css for colors, fonts, and layout changes.
+
+Add or modify interactions in script.js.
+
+Launch in Browser
+
+Double-click on the index.html file to open it in your default web browser.
+
+📝 Developer Notes
+This project is fully open-source and free to customize.
+
+You can add more JavaScript features in script.js as needed.
+
+Update image src attributes to change visuals.
+
+📄 License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+
+👤 Developer
+Bektas Sari
+Email: bektas.sari@gmail.com <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
